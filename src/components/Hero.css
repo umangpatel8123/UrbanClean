@@ -1,0 +1,35 @@
+.hero-content {
+  text-align: left; /* Align content to the left */
+  padding: 50px;
+   /* Add padding for spacing */
+}
+
+.hero-title {
+  font-size: 45px;
+  color: #513C2C; 
+  margin-bottom: 20px;
+  letter-spacing: -2.5px;
+  font-weight: bolder;
+  padding-top: 120px;
+
+ 
+}
+
+.hero-title2 {
+  font-size: 60px;
+  color: #087966; 
+ 
+  letter-spacing: -4px;
+  font-weight: bolder;
+  
+
+ 
+}
+
+.Bg{
+  
+    background: url('http://localhost:3000/images/bg.png') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh; /* Ensure it takes up at least the full viewport height */
+
+}
